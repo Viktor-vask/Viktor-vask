@@ -39,14 +39,6 @@ Olá! Meu nome é **Vitor Assunção**, sou estudante de **Sistemas de Informaç
 - 🏗️ **Java: Criando sua Primeira Aplicação**  
 - 📊 **Organizational Analysis**  
 
-## 🏢 **Experiência**
-🔍 **Pesquisador - Projeto Super** (maio/2023 - março/2024)  
-    - Pesquisa na área de **Engenharia de Software**  
-    - Elaboração de **artigos acadêmicos**  
-    - Participação em **eventos científicos**  
-
-🏦 **Assistente Administrativo - Bradesco** (jul/2021 - dez/2022)  
-
 ## 📫 **Contato**
 
 <p align="center">
